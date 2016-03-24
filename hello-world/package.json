@@ -1,0 +1,15 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "underscore": ">= 1.8.x"
+  },
+  "main": "node hello-world.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "euler1": "node euler1.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

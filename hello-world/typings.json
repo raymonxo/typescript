@@ -1,5 +1,6 @@
 {
   "ambientDependencies": {
-    "node": "registry:dt/node#4.0.0+20160319033040"
+    "node": "registry:dt/node#4.0.0+20160319033040",
+    "underscore": "registry:dt/underscore#1.7.0+20160316155526"
   }
 }
