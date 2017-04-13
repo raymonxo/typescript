@@ -1,7 +1,4 @@
 namespace RayMitchell.Euler {
-    // TODO: Implement functional methods (e.g. filter, map) to work directly with iterators.
-    //       See wu.js for example of library that does this.
-
     /**
      * Return iterator ranging from begin to end (non-inclusive) stepping by interval.
      */
