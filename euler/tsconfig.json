@@ -1,6 +1,21 @@
 {
     "compilerOptions": {
-        "target": "es2017",
-        "outFile": "Euler.js"
-    }
+        "declaration": true,
+        "inlineSources": true,
+        "lib": ["es2017"],
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "noImplicitAny": true,
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "outDir": "built",
+        "removeComments": true,
+        "sourceMap": true,
+        "strictNullChecks": true,
+        "target": "es2017"
+    },
+    "include": [
+        "src/**/*",
+        "node_modules/@types/**/*"
+    ]
 }
